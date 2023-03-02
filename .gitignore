@@ -1,5 +1,3 @@
-.wordpress-cache
-
 # Logs
 logs
 *.log
@@ -69,3 +67,15 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+.history
+.vscode
+temp
+
+
+# Local Netlify folder
+.netlify
+
+grun.sh
+setfullcsv.sh
+package-lock.json
